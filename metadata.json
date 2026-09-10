@@ -1,0 +1,6 @@
+{
+  "name": "KreatifHub AI",
+  "description": "Sistem kecerdasan buatan terpusat untuk UMKM Ekonomi Kreatif Indonesia: Generator Konten, Responden CS, dan Ekstraktor Data Pesanan terstruktur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
